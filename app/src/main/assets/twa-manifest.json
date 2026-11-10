@@ -1,0 +1,9 @@
+{
+    "name": "created by Tiko",
+    "short_name": "Tiko",
+    "description": "Fun and addictive block puzzle game",
+    "start_url": "https://dapper-kheer-46706b.netlify.app/",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/"
+}
